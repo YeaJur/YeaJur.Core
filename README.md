@@ -1,0 +1,2 @@
+# YeaJur.Core
+YeaJur.Core
