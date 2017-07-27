@@ -33,3 +33,7 @@
 /YeaJur.Core/bin/Debug/log4net.dll
 /YeaJur.Core/bin/Debug/ICSharpCode.SharpZipLib.dll
 /YeaJur.Core/obj
+/YeaJur.Core/bin/Release
+/YeaJur.Core/NuGet.exe
+/YeaJur.Core/YeaJur.Core.1.0.6415.39260.nupkg
+/YeaJur.Core/YeaJur.Core.nuspec
