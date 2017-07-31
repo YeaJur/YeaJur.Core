@@ -68,7 +68,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attributes\AnonymousAttribute.cs" />
     <Compile Include="Attributes\KeyValueAttribute.cs" />
+    <Compile Include="Attributes\LoginAllowViewAttribute.cs" />
+    <Compile Include="Attributes\PermissionPageAttribute.cs" />
     <Compile Include="Enums\ELogType.cs" />
     <Compile Include="Models\MIdName.cs" />
     <Compile Include="Models\MKeyValue.cs" />
@@ -91,6 +94,8 @@
     <Compile Include="Models\MPageResult.cs" />
     <Compile Include="Models\MResult.cs" />
     <Compile Include="Models\MResultMsg.cs" />
+    <Compile Include="Models\MSystemAction.cs" />
+    <Compile Include="Models\MSystemAuthorize.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
